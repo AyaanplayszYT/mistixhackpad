@@ -1,0 +1,17 @@
+{
+    "keyboard_name": "mistix_hackpad",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "matrix_pins": {
+        "direct": [
+            ["GP9", "GP10", "GP11"]
+        ]
+    },
+    "diode_direction": "COL2ROW",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0000",
+        "device_version": "1.0.0"
+    }
+}
+
