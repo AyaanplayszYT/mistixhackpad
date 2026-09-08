@@ -8,7 +8,7 @@ Mistix Hackpad is my first ever hardware project – the first board design, the
 
 The board features three mechanical switches directly connected to XIAO RP2040 (with no diode matrix, just one GPIO per switch), and QMK media-control keymap.
 
-SCREENSHOTS
+<img width="1332" height="537" alt="Screenshot 2026-09-07 195935" src="https://github.com/user-attachments/assets/4cb0267a-1e70-4499-b763-27bb7a783508" />
 
 ## PCB Design
 
@@ -16,12 +16,16 @@ Designed from scratch in KiCad. The XIAO RP2040 is wired directly to 3 push swit
 
 Gerbers and drill files are exported and included in the repo, in the production folder.
 
+<img width="1592" height="678" alt="image" src="https://github.com/user-attachments/assets/6f4aa69a-68ad-4131-a1f1-16bb39c69563" />
+
 ## Case Design
 
 The casing was made using Tinkercad, with the casing being divided into two sections of the bottom tray and the top plate. It was done following the typical case design tutorial without making any changes to keep it simple:
 
 Bottom tray: 77.4mm x 39mm base slab with 3mm thickness having a 10mm wall frame (10mm tall), inner cavity for accommodating the PCB (57.4mm x 19mm), four corner mounting holes (2.9mm in diameter with 5mm from the edge), and USB-C hole.
 Top plate: 77.4mm x 39mm slab (3mm thick) with three switch holes (14mm x 14mm Cherry MX-sized) along with the same four corner mounting holes to make sure that it aligns with the bottom tray.
+
+<img width="1048" height="592" alt="image" src="https://github.com/user-attachments/assets/8e4d8662-56ae-4256-96a6-a419907b371f" />
 
 ## Firmware
 
