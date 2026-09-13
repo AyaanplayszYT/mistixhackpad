@@ -67,7 +67,7 @@ In first place, it was the question of obtaining certain skills that will be use
 
 Path | Contents
 --- | ---
-`CAD/` | MistixHackpad.stp
+`CAD/` | MistixHackpad.step
 `Firmware/` | QMK firmware project
 `Firmware/keymap/` | Default keymap
 `Firmware/keybooard.json` | QMK keyboard definition
