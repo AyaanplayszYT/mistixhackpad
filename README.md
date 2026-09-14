@@ -67,7 +67,8 @@ In first place, it was the question of obtaining certain skills that will be use
 
 Path | Contents
 --- | ---
-`CAD/` | MistixHackpad.stp
+`CAD/` | MistixHackpad.step
+`CAD/` | MistixHackpad.stl
 `Firmware/` | QMK firmware project
 `Firmware/keymap/` | Default keymap
 `Firmware/keybooard.json` | QMK keyboard definition
@@ -77,6 +78,8 @@ Path | Contents
 `Ki-CAD-LIBS/XIAO_RP2040.kicad_mod` | XIAO RP2040 footprint
 `PCB/` | KiCad PCB, project, and schematic files
 `Production/` | STL files, compiled firmware, and Gerbers
+`Production/bottom.step` | Case bottom tray
+`Production/top.step` | Case top plate
 `Production/bottom.stl` | Case bottom tray
 `Production/Top.stl` | Case top plate
 `Production/firmware.uf2` | Compiled firmware
